@@ -1,4 +1,6 @@
 ---
+Hello world
+
 layout: post
 category : lessons
 tags : [intro, beginner, jekyll, tutorial]
